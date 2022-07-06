@@ -223,7 +223,49 @@ body    {
     
 }
 
+/* bonus---part----counter */
+
+.bonus-counts{
+    display: inline-block;
+    height: 200px;
+    width: 100%;
+    margin-top: 20px;
+    background-color: rgb(126, 102, 148);
+    margin-top: 70px;
+    padding-top: 20px;
+}
+
+.side-by-side{
+    display: flex;
+    padding-inline: 2%;
+    margin-inline: 2%;
+    
+}
+
+.for-head-font{
+    font-size: 40px;
+}
+.for-para-font{
+    font-size: 20px;
+}
+
+.divide-sec{
+    display: block;
+    height: 50px;
+    width: 100px;
+    margin-left: 70px;
+    margin-right: 20px;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+    line-height: 10px;
+    padding-top: 20px;
+    text-shadow: 1px 1px black;
+    color: azure;
+}
+
 /* get--my--updates */
+
 #email-box{
     height: 40px;
     width: 250px;
