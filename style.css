@@ -189,6 +189,7 @@ body    {
     border-width: 0px;
 }
 
+/* I am not sure if I am allowed to use this. I found it on stackoverflow, but understood what it does. */
 ::placeholder{
     font-size: 20px;
     text-align: center;
@@ -254,6 +255,8 @@ body    {
     align-items: center;
 }
 
+/* footer ---- I love kung fu panda */
+
 footer{
     display: block;
     background-color: rgb(35, 35, 58);
@@ -269,5 +272,4 @@ footer{
 }
 #footer-2-t{
     font-size: 15px;
-
 }
