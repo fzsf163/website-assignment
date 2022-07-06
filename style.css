@@ -191,3 +191,30 @@ body    {
 ::placeholder{
     font-size: 20px;
 }
+
+/* section-3-donatation-plan */
+
+.text-format-para-3{
+    height: 200px;
+    width: 300px;
+    text-align: left;
+}
+.d-plan-org{
+    display: flex;
+    height: 20%;
+    width: 30%;
+    margin-left: 12%;
+    padding-top: 100px;
+}
+
+.plan-box{
+    display: block;
+    height: 300px;
+    width: 500px;
+    padding-left: 20px;
+    margin-inline: 20px;
+    border: 1px solid black;
+    padding-top: 30px;
+    background-color: rgba(202, 189, 173, 0.233);
+    
+}
